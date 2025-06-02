@@ -6,6 +6,12 @@
 
 A lightweight, production-grade observability stack using Docker Compose, Prometheus, Node Exporter, and Grafana, deployable on any Linux or Windows host (including AWS EC2).
 
+💡 Architecture
+-----------
+
+<img src="assets/monitoring_architecture.png">
+
+
 💡 Features
 -----------
 

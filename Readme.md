@@ -27,7 +27,7 @@ A lightweight, production-grade observability stack using Docker Compose, Promet
 📂 Repository
 -------------
 
-[GitHub Repository (replace with actual)](https://github.com/trivediayush/Docker-Monitoring-Stack)
+[GitHub Repository](https://github.com/trivediayush/Docker-Monitoring-Stack)
 
 📊 Dashboard Access
 -------------------
